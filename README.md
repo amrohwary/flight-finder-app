@@ -7,3 +7,4 @@ interface.
 ## Getting Started
 
 Check out some screenshots of the current interface:
+https://github.com/amrohwary/flight-finder-app/tree/master/screenshots
